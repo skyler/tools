@@ -1,0 +1,2 @@
+#!/bin/sh
+scp -P 22 $2 username@$1:/tmp
